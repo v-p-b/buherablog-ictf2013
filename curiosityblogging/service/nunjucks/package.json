@@ -1,0 +1,35 @@
+{
+  "name": "nunjucks",
+  "description": "A jinja inspired templating engine",
+  "version": "0.1.8a",
+  "author": {
+    "name": "James Long",
+    "email": "longster@gmail.com"
+  },
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*",
+    "uglify-js": "*"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "bin": {
+    "nunjucks-precompile": "./bin/precompile"
+  },
+  "main": "index",
+  "_id": "nunjucks@0.1.8a",
+  "dependencies": {},
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.4",
+  "_nodeVersion": "v0.6.19",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "3614e9dac670c73884c05a232eaf3b5c78121aea"
+  },
+  "_from": "nunjucks"
+}
